@@ -1,0 +1,3 @@
+VIA_ENABLE = no
+MOUSEKEY_ENABLE = yes
+LTO_ENABLE = yes
